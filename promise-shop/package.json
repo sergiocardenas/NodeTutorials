@@ -1,0 +1,14 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sergio",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
